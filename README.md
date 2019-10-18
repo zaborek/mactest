@@ -1,5 +1,6 @@
 # mactest
-A first lesson in github from Colin
+
+###A first lesson in github from Colin
 
 1) make repo in github
 2) clone via gitclone button with https (it is green) -- copy to clipboard
@@ -17,6 +18,8 @@ A first lesson in github from Colin
 12) don't edit unless you're up to date
 
 
-Other things: you  might want to edit the defualt text editor that git will use to edit files. To do this, type 'git config --global core.editor "emacs"' for emacs, or your editor of choice.
+Other things:
 
-You may also want to update your name and email in the configuration. To do this type "git config --global --edit" to edit name and email (it will open in your default text editor).
+1) You  might want to edit the defualt text editor that git will use to edit files. To do this, type 'git config --global core.editor "emacs"' for emacs, or your editor of choice.
+
+2) You may also want to update your name and email in the configuration. To do this type "git config --global --edit" to edit name and email (it will open in your default text editor).
