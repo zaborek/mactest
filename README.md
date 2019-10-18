@@ -1,6 +1,6 @@
 # mactest
 
-###A first lesson in github from Colin
+### A first lesson in github from Colin
 
 1) make repo in github
 2) clone via gitclone button with https (it is green) -- copy to clipboard
@@ -18,7 +18,7 @@
 12) don't edit unless you're up to date
 
 
-Other things:
+### Other things:
 
 1) You  might want to edit the defualt text editor that git will use to edit files. To do this, type 'git config --global core.editor "emacs"' for emacs, or your editor of choice.
 
