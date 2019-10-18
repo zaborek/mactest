@@ -3,7 +3,7 @@ A first lesson in github from Colin
 
 1) make repo in github
 2) clone via gitclone button with https (it is green) -- copy to clipboard
-3) make mirrored dir in local file system
+3) go to location in file system where you want to put the repo
 4) type "git clone (paste https from git button here)"
 5) enter credentials
 6) establish .gitignore
