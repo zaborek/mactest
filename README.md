@@ -15,3 +15,8 @@ A first lesson in github from Colin
 11) to refresh local machine with origin (github) type "git pull" in the correct git repo on your machine.
 
 12) don't edit unless you're up to date
+
+
+Other things: you  might want to edit the defualt text editor that git will use to edit files. To do this, type 'git config --global core.editor "emacs"' for emacs, or your editor of choice.
+
+You may also want to update your name and email in the configuration. To do this type "git config --global --edit" to edit name and email (it will open in your default text editor).
